@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-13)
+## Unreleased (2026-10-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`67c1633`](https://github.com/stdlib-js/stdlib/commit/67c1633c999488e1807bb2aa77183662c6eb387b) - **chore:** fix inconsistencies across packages in `blas/ext/base*` [(#15146)](https://github.com/stdlib-js/stdlib/pull/15146) _(by Muhammad Haris, Athan Reines)_
 -   [`7c04275`](https://github.com/stdlib-js/stdlib/commit/7c04275a9a0843b2031922a8d98af83869d092e7) - **docs:** clean-up [(#13833)](https://github.com/stdlib-js/stdlib/pull/13833) _(by Philipp Burckhardt)_
 -   [`35251d8`](https://github.com/stdlib-js/stdlib/commit/35251d8eeb6ae8d50fd92604399824a5a0b6e432) - **feat:** add `blas/ext/base/zlast-index-of-falsy` [(#13535)](https://github.com/stdlib-js/stdlib/pull/13535) _(by Muhammad Haris, Athan Reines)_
 
